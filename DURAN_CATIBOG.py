@@ -8,3 +8,6 @@ def Space():
 
 def MainMenu():
     print("1")  
+
+
+    
