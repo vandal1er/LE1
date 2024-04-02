@@ -1,1 +1,7 @@
-#test
+def Line():
+    print("==============================")
+
+def Space():
+    for i in range(5):
+        print("")
+
